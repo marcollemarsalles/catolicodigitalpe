@@ -1,0 +1,101 @@
+[
+  {
+    "id": "u1",
+    "email": "marcolle2013@gmail.com",
+    "password": "marcolle@123",
+    "name": "Marcolle Marsalles",
+    "nickname": "Marcolle",
+    "role": "Servo",
+    "currentTeam": "Equipe de Dirigentes",
+    "points": 750,
+    "photoUrl": "https://picsum.photos/seed/marcolle/200/200",
+    "relics": [
+      { "id": "1", "unlockedAt": "2023-05-15" },
+      { "id": "26", "unlockedAt": "2023-11-20" },
+      { "id": "51", "unlockedAt": "2024-02-12" },
+      { "id": "76", "unlockedAt": "2024-10-09" }
+    ],
+    "history": [
+      { "team": "Montagem", "year": 2023 },
+      { "team": "Círculo Amarelo", "year": 2022 },
+      { "team": "Encontrista", "year": 2021 }
+    ]
+  },
+  {
+    "id": "u2",
+    "email": "admin@ejc.com",
+    "password": "admin",
+    "name": "Administrador do Systema",
+    "nickname": "Admin",
+    "role": "Coordenador",
+    "currentTeam": "Coordenação Geral",
+    "points": 999,
+    "photoUrl": "https://picsum.photos/id/237/200/300",
+    "relics": [
+      { "id": "1", "unlockedAt": "2022-01-10" },
+      { "id": "2", "unlockedAt": "2022-06-15" },
+      { "id": "3", "unlockedAt": "2023-02-20" },
+      { "id": "5", "unlockedAt": "2023-08-05" }
+    ],
+    "history": [
+      { "team": "Coordenação", "year": 2024 },
+      { "team": "Palestra", "year": 2023 }
+    ]
+  },
+  {
+    "id": "u3",
+    "email": "zelindo@ejc.com",
+    "password": "123",
+    "name": "José isaias",
+    "nickname": "ZÉ LINDO",
+    "role": "Coordenador",
+    "currentTeam": "Coordenação Geral",
+    "points": 946,
+    "photoUrl": "https://picsum.photos/id/237/200/300",
+    "relics": [
+      { "id": "2", "unlockedAt": "2022-06-15" },
+      { "id": "3", "unlockedAt": "2023-02-20" },
+      { "id": "5", "unlockedAt": "2023-08-05" },
+      { "id": "1", "unlockedAt": "2023-05-15" },
+      { "id": "26", "unlockedAt": "2023-11-20" },
+      { "id": "51", "unlockedAt": "2024-02-12" },
+      { "id": "76", "unlockedAt": "2024-10-09" },
+      { "id": "70", "unlockedAt": "2024-10-09" },
+      { "id": "49", "unlockedAt": "2024-10-09" }
+    ],
+    "history": [
+      { "team": "Coordenação", "year": 2025 },
+      { "team": "Palestra", "year": 2024 },
+      { "team": "Bandinha", "year": 2023 },
+      { "team": "Encontrista", "year": 2022 }
+    ]
+  },
+  {
+    "id": "u4",
+    "email": "mariasilva@ejc.com",
+    "password": "1234",
+    "name": "Maria da Conceição",
+    "nickname": "Maria C",
+    "role": "Coordenador(a)",
+    "currentTeam": "Coordenação Geral",
+    "points": 946,
+    "photoUrl": "https://picsum.photos/200/300",
+    "relics": [
+      { "id": "2", "unlockedAt": "2022-06-15" },
+      { "id": "3", "unlockedAt": "2023-02-20" },
+      { "id": "5", "unlockedAt": "2023-08-05" },
+      { "id": "1", "unlockedAt": "2023-05-15" },
+      { "id": "26", "unlockedAt": "2023-11-20" },
+      { "id": "51", "unlockedAt": "2024-02-12" },
+      { "id": "76", "unlockedAt": "2024-10-09" },
+      { "id": "70", "unlockedAt": "2024-10-09" },
+      { "id": "49", "unlockedAt": "2024-10-09" }
+    ],
+    "history": [
+      { "team": "Coordenação", "year": 2025 },
+      { "team": "Palestra", "year": 2024 },
+      { "team": "Bandinha", "year": 2023 },
+      { "team": "Encontrista", "year": 2022 }
+    ]
+  }
+]

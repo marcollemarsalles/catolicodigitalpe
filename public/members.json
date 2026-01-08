@@ -1,0 +1,78 @@
+
+[
+  { "id": "1", "name": "Marcolle Marsalles", "nickname": "Marcolle", "year": 2022, "contact": "81996238960", "category": "Encontrista", "team": "Vermelho", "instagram": "marcollemarsalles", "photoUrl": "https://i.pravatar.cc/150?u=1" },
+  { "id": "2", "name": "Mariana Santos", "nickname": "Mari", "year": 2021, "contact": "81988888888", "category": "Encontrista", "team": "Verde", "instagram": "mari_santos", "photoUrl": "https://i.pravatar.cc/150?u=2" },
+  { "id": "3", "name": "Felipe Oliveira", "nickname": "Lipe", "year": 2023, "contact": "81977777777", "category": "Encontrista", "team": "Azul", "instagram": "felipe_olv", "photoUrl": "https://i.pravatar.cc/150?u=3" },
+  { "id": "4", "name": "Beatriz Lima", "nickname": "Bia", "year": 2022, "contact": "81966666666", "category": "Encontrista", "team": "Amarelo", "instagram": "bia_lima_ejc", "photoUrl": "https://i.pravatar.cc/150?u=4" },
+  
+  { "id": "v1", "name": "Rodrigo Silva", "nickname": "Digo", "year": 2024, "contact": "81911110001", "category": "Encontrista", "team": "Vermelho", "instagram": "rodrigo_s", "photoUrl": "https://i.pravatar.cc/150?u=v1" },
+  { "id": "v2", "name": "Juliana Costa", "nickname": "Ju", "year": 2024, "contact": "81911110002", "category": "Encontrista", "team": "Vermelho", "instagram": "jucosta", "photoUrl": "https://i.pravatar.cc/150?u=v2" },
+  { "id": "v3", "name": "Pedro Henrique", "nickname": "Pedrinho", "year": 2024, "contact": "81911110003", "category": "Encontrista", "team": "Vermelho", "instagram": "ph_silva", "photoUrl": "https://i.pravatar.cc/150?u=v3" },
+  { "id": "v4", "name": "Carla Mendes", "nickname": "Carlinha", "year": 2024, "contact": "81911110004", "category": "Encontrista", "team": "Vermelho", "instagram": "carla_m", "photoUrl": "https://i.pravatar.cc/150?u=v4" },
+  { "id": "v5", "name": "Gustavo Souza", "nickname": "Guga", "year": 2024, "contact": "81911110005", "category": "Encontrista", "team": "Vermelho", "instagram": "guga_ejc", "photoUrl": "https://i.pravatar.cc/150?u=v5" },
+
+  { "id": "gr1", "name": "Aline Ferreira", "nickname": "Line", "year": 2024, "contact": "81922220001", "category": "Encontrista", "team": "Verde", "instagram": "aline_f", "photoUrl": "https://i.pravatar.cc/150?u=gr1" },
+  { "id": "gr2", "name": "Bruno Alves", "nickname": "Bruninho", "year": 2024, "contact": "81922220002", "category": "Encontrista", "team": "Verde", "instagram": "bruno_alves", "photoUrl": "https://i.pravatar.cc/150?u=gr2" },
+  { "id": "gr3", "name": "Fernanda Lima", "nickname": "Nanda", "year": 2024, "contact": "81922220003", "category": "Encontrista", "team": "Verde", "instagram": "fernandinha", "photoUrl": "https://i.pravatar.cc/150?u=gr3" },
+  { "id": "gr4", "name": "Thiago Rocha", "nickname": "Thithi", "year": 2024, "contact": "81922220004", "category": "Encontrista", "team": "Verde", "instagram": "thiago_r", "photoUrl": "https://i.pravatar.cc/150?u=gr4" },
+  { "id": "gr5", "name": "Isabela Cruz", "nickname": "Isa", "year": 2024, "contact": "81922220005", "category": "Encontrista", "team": "Verde", "instagram": "isa_cruz", "photoUrl": "https://i.pravatar.cc/150?u=gr5" },
+
+  { "id": "az1", "name": "Matheus Dantas", "nickname": "Math", "year": 2024, "contact": "81933330001", "category": "Encontrista", "team": "Azul", "instagram": "math_dantas", "photoUrl": "https://i.pravatar.cc/150?u=az1" },
+  { "id": "az2", "name": "Larissa Gomes", "nickname": "Lari", "year": 2024, "contact": "81933330002", "category": "Encontrista", "team": "Azul", "instagram": "larigomes", "photoUrl": "https://i.pravatar.cc/150?u=az2" },
+  { "id": "az3", "name": "Vitor Emanoel", "nickname": "Vitinho", "year": 2024, "contact": "81933330003", "category": "Encontrista", "team": "Azul", "instagram": "vitor_e", "photoUrl": "https://i.pravatar.cc/150?u=az3" },
+  { "id": "az4", "name": "Sofia Helena", "nickname": "Soso", "year": 2024, "contact": "81933330004", "category": "Encontrista", "team": "Azul", "instagram": "sofia_h", "photoUrl": "https://i.pravatar.cc/150?u=az4" },
+  { "id": "az5", "name": "Daniel Vieira", "nickname": "Dani", "year": 2024, "contact": "81933330005", "category": "Encontrista", "team": "Azul", "instagram": "daniel_v", "photoUrl": "https://i.pravatar.cc/150?u=az5" },
+
+  { "id": "am1", "name": "Rafael Torres", "nickname": "Rafa", "year": 2024, "contact": "81944440001", "category": "Encontrista", "team": "Amarelo", "instagram": "rafa_torres", "photoUrl": "https://i.pravatar.cc/150?u=am1" },
+  { "id": "am2", "name": "Camila Queiroz", "nickname": "Cami", "year": 2024, "contact": "81944440002", "category": "Encontrista", "team": "Amarelo", "instagram": "cami_q", "photoUrl": "https://i.pravatar.cc/150?u=am2" },
+  { "id": "am3", "name": "Igor Batista", "nickname": "Igão", "year": 2024, "contact": "81944440003", "category": "Encontrista", "team": "Amarelo", "instagram": "igor_b", "photoUrl": "https://i.pravatar.cc/150?u=am3" },
+  { "id": "am4", "name": "Beatriz Farias", "nickname": "Bea", "year": 2024, "contact": "81944440004", "category": "Encontrista", "team": "Amarelo", "instagram": "bea_farias", "photoUrl": "https://i.pravatar.cc/150?u=am4" },
+  { "id": "am5", "name": "Samuel Lima", "nickname": "Samu", "year": 2024, "contact": "81944440005", "category": "Encontrista", "team": "Amarelo", "instagram": "samuel_l", "photoUrl": "https://i.pravatar.cc/150?u=am5" },
+
+  { "id": "e1", "name": "Padre Marcelo", "nickname": "Pe. Marcelo", "year": 2024, "contact": "81900001111", "category": "Equipe", "team": "Direção espiritual", "instagram": "pe_marcelo", "photoUrl": "https://i.pravatar.cc/150?u=e1" },
+  { "id": "e2", "name": "Ricardo e Luiza", "nickname": "Tio Ricardinho", "year": 2024, "contact": "81900002222", "category": "Equipe", "team": "Coordenação geral", "instagram": "coord_geral", "photoUrl": "https://i.pravatar.cc/150?u=e2" },
+  
+  { "id": "cz1", "name": "Maria do Carmo", "nickname": "Dona Maria", "year": 2024, "contact": "81955550001", "category": "Equipe", "team": "Cozinha", "instagram": "maria_cozinha", "photoUrl": "https://i.pravatar.cc/150?u=cz1" },
+  { "id": "cz2", "name": "Antônio Severino", "nickname": "Tio Tonho", "year": 2024, "contact": "81955550002", "category": "Equipe", "team": "Cozinha", "instagram": "tonho_cheff", "photoUrl": "https://i.pravatar.cc/150?u=cz2" },
+  { "id": "cz3", "name": "Lúcia Helena", "nickname": "Lucinha", "year": 2024, "contact": "81955550003", "category": "Equipe", "team": "Cozinha", "instagram": "lucia_ejc", "photoUrl": "https://i.pravatar.cc/150?u=cz3" },
+  { "id": "cz4", "name": "Fábio Junior", "nickname": "Fabinho", "year": 2024, "contact": "81955550004", "category": "Equipe", "team": "Cozinha", "instagram": "fabio_cozinha", "photoUrl": "https://i.pravatar.cc/150?u=cz4" },
+  { "id": "cz5", "name": "Sônia Abrão", "nickname": "Soninha", "year": 2024, "contact": "81955550005", "category": "Equipe", "team": "Cozinha", "instagram": "sonia_lanches", "photoUrl": "https://i.pravatar.cc/150?u=cz5" },
+
+  { "id": "bd1", "name": "Henrique Músico", "nickname": "Rico", "year": 2024, "contact": "81966660001", "category": "Equipe", "team": "Bandinha", "instagram": "henrique_batera", "photoUrl": "https://i.pravatar.cc/150?u=bd1" },
+  { "id": "bd2", "name": "Alice Mel", "nickname": "Licinha", "year": 2024, "contact": "81966660002", "category": "Equipe", "team": "Bandinha", "instagram": "alice_vox", "photoUrl": "https://i.pravatar.cc/150?u=bd2" },
+  { "id": "bd3", "name": "Jorge Ben", "nickname": "Jorginho", "year": 2024, "contact": "81966660003", "category": "Equipe", "team": "Bandinha", "instagram": "jorge_violao", "photoUrl": "https://i.pravatar.cc/150?u=bd3" },
+  { "id": "bd4", "name": "Katia Flávia", "nickname": "Katia", "year": 2024, "contact": "81966660004", "category": "Equipe", "team": "Bandinha", "instagram": "katia_baixo", "photoUrl": "https://i.pravatar.cc/150?u=bd4" },
+  { "id": "bd5", "name": "Roberto Marinho", "nickname": "Beto", "year": 2024, "contact": "81966660005", "category": "Equipe", "team": "Bandinha", "instagram": "beto_teclado", "photoUrl": "https://i.pravatar.cc/150?u=bd5" },
+
+  { "id": "tr1", "name": "Carlos Alberto", "nickname": "Carlão", "year": 2024, "contact": "81977770001", "category": "Equipe", "team": "Transito", "instagram": "carlao_transito", "photoUrl": "https://i.pravatar.cc/150?u=tr1" },
+  { "id": "tr2", "name": "Márcio Garcia", "nickname": "Marcinho", "year": 2024, "contact": "81977770002", "category": "Equipe", "team": "Transito", "instagram": "marcio_g", "photoUrl": "https://i.pravatar.cc/150?u=tr2" },
+  { "id": "tr3", "name": "Eliana Dedinhos", "nickname": "Eli", "year": 2024, "contact": "81977770003", "category": "Equipe", "team": "Transito", "instagram": "eliana_ejc", "photoUrl": "https://i.pravatar.cc/150?u=tr3" },
+  { "id": "tr4", "name": "Gugu Liberato", "nickname": "Gugu", "year": 2024, "contact": "81977770004", "category": "Equipe", "team": "Transito", "instagram": "gugu_transito", "photoUrl": "https://i.pravatar.cc/150?u=tr4" },
+  { "id": "tr5", "name": "Ratinho Massa", "nickname": "Ratinho", "year": 2024, "contact": "81977770005", "category": "Equipe", "team": "Transito", "instagram": "ratinho_vrum", "photoUrl": "https://i.pravatar.cc/150?u=tr5" },
+
+  { "id": "te1", "name": "Fernanda Torres", "nickname": "Nandinha", "year": 2024, "contact": "81988880001", "category": "Equipe", "team": "Teatro", "instagram": "nanda_teatro", "photoUrl": "https://i.pravatar.cc/150?u=te1" },
+  { "id": "te2", "name": "Selton Mello", "nickname": "Selton", "year": 2024, "contact": "81988880002", "category": "Equipe", "team": "Teatro", "instagram": "selton_mello", "photoUrl": "https://i.pravatar.cc/150?u=te2" },
+  { "id": "te3", "name": "Taís Araújo", "nickname": "Tatá", "year": 2024, "contact": "81988880003", "category": "Equipe", "team": "Teatro", "instagram": "tais_teatro", "photoUrl": "https://i.pravatar.cc/150?u=te3" },
+  { "id": "te4", "name": "Lázaro Ramos", "nickname": "Lázinho", "year": 2024, "contact": "81988880004", "category": "Equipe", "team": "Teatro", "instagram": "lazaro_ejc", "photoUrl": "https://i.pravatar.cc/150?u=te4" },
+  { "id": "te5", "name": "Glória Pires", "nickname": "Glorinha", "year": 2024, "contact": "81988880005", "category": "Equipe", "team": "Teatro", "instagram": "gloria_atuando", "photoUrl": "https://i.pravatar.cc/150?u=te5" },
+
+  { "id": "lc1", "name": "Sandra Annenberg", "nickname": "San", "year": 2024, "contact": "81999990001", "category": "Equipe", "team": "Lanche", "instagram": "sandra_lanche", "photoUrl": "https://i.pravatar.cc/150?u=lc1" },
+  { "id": "lc2", "name": "William Bonner", "nickname": "Will", "year": 2024, "contact": "81999990002", "category": "Equipe", "team": "Lanche", "instagram": "will_bonner", "photoUrl": "https://i.pravatar.cc/150?u=lc2" },
+  { "id": "lc3", "name": "Fátima Bernardes", "nickname": "Fatinha", "year": 2024, "contact": "81999990003", "category": "Equipe", "team": "Lanche", "instagram": "fatima_ejc", "photoUrl": "https://i.pravatar.cc/150?u=lc3" },
+  { "id": "lc4", "name": "Ana Hickman", "nickname": "Ana", "year": 2024, "contact": "81999990004", "category": "Equipe", "team": "Lanche", "instagram": "ana_h", "photoUrl": "https://i.pravatar.cc/150?u=lc4" },
+  { "id": "lc5", "name": "Rodrigo Faro", "nickname": "Faro", "year": 2024, "contact": "81999990005", "category": "Equipe", "team": "Lanche", "instagram": "vai_dar_namoro", "photoUrl": "https://i.pravatar.cc/150?u=lc5" },
+
+  { "id": "sl1", "name": "Evaristo Costa", "nickname": "Eva", "year": 2024, "contact": "81900000001", "category": "Equipe", "team": "Sala", "instagram": "eva_sala", "photoUrl": "https://i.pravatar.cc/150?u=sl1" },
+  { "id": "sl2", "name": "Angélica Ksy", "nickname": "Angel", "year": 2024, "contact": "81900000002", "category": "Equipe", "team": "Sala", "instagram": "angelica_ejc", "photoUrl": "https://i.pravatar.cc/150?u=sl2" },
+  { "id": "sl3", "name": "Fausto Silva", "nickname": "Faustão", "year": 2024, "contact": "81900000003", "category": "Equipe", "team": "Sala", "instagram": "faustao_oloco", "photoUrl": "https://i.pravatar.cc/150?u=sl3" },
+  { "id": "sl4", "name": "Xuxa Meneghel", "nickname": "Xuxinha", "year": 2024, "contact": "81900000004", "category": "Equipe", "team": "Sala", "instagram": "xuxa_sala", "photoUrl": "https://i.pravatar.cc/150?u=sl4" },
+  { "id": "sl5", "name": "Sérgio Mallandro", "nickname": "Mallandro", "year": 2024, "contact": "81900000005", "category": "Equipe", "team": "Sala", "instagram": "ie_ie_ejc", "photoUrl": "https://i.pravatar.cc/150?u=sl5" },
+
+  { "id": "mt1", "name": "Marcos Mion", "nickname": "Mion", "year": 2024, "contact": "81911111111", "category": "Equipe", "team": "Dirigentes de montagem", "instagram": "mion_montagem", "photoUrl": "https://i.pravatar.cc/150?u=mt1" },
+  { "id": "mt2", "name": "Luciano Amaral", "nickname": "Lucas", "year": 2024, "contact": "81911111112", "category": "Equipe", "team": "Dirigentes de montagem", "instagram": "luciano_monta", "photoUrl": "https://i.pravatar.cc/150?u=mt2" },
+  { "id": "mt3", "name": "Cassio Ramos", "nickname": "Cassio", "year": 2024, "contact": "81911111113", "category": "Equipe", "team": "Dirigentes de montagem", "instagram": "cassio_ejc", "photoUrl": "https://i.pravatar.cc/150?u=mt3" },
+  { "id": "mt4", "name": "Hulk Paraíba", "nickname": "Hulk", "year": 2024, "contact": "81911111114", "category": "Equipe", "team": "Dirigentes de montagem", "instagram": "hulk_montagem", "photoUrl": "https://i.pravatar.cc/150?u=mt4" },
+  { "id": "mt5", "name": "Gabigol Almeida", "nickname": "Gabi", "year": 2024, "contact": "81911111115", "category": "Equipe", "team": "Dirigentes de montagem", "instagram": "gabigol_ejc", "photoUrl": "https://i.pravatar.cc/150?u=mt5" },
+  
+  { "id": "gf1", "name": "Sérgio Mallandro 2", "nickname": "Mallandro2", "year": 2024, "contact": "81900000005", "category": "Equipe", "team": "Grafica", "instagram": "ie_ie_ejc", "photoUrl": "https://i.pravatar.cc/150?u=sl5" }
+]

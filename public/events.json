@@ -1,0 +1,35 @@
+
+[
+  {
+    "id": "1",
+    "theme": "A Alegria de Servir",
+    "type": "Reunião",
+    "date": "2025-05-20",
+    "time": "19:30",
+    "location": "Salão Paroquial"
+  },
+  {
+    "id": "2",
+    "theme": "Doutrina Social da Igreja",
+    "type": "Formação",
+    "date": "2025-05-25",
+    "time": "14:00",
+    "location": "Auditório da Matriz"
+  },
+  {
+    "id": "3",
+    "theme": "EJC é mesmo assim, foi Deus quem quis isso pra mim!",
+    "type": "Encontro",
+    "date": "2025-07-12",
+    "time": "08:00",
+    "location": "Centro de Evangelização"
+  },
+  {
+    "id": "4",
+    "theme": "Arraiá do EJC",
+    "type": "Social",
+    "date": "2025-06-15",
+    "time": "20:00",
+    "location": "Pátio da Igreja"
+  }
+]
