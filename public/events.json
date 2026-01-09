@@ -6,7 +6,8 @@
     "type": "Reunião",
     "date": "2025-05-20",
     "time": "19:30",
-    "location": "Salão Paroquial"
+    "location": "Salão Paroquial",
+    "visibility": true
   },
   {
     "id": "2",
@@ -14,7 +15,8 @@
     "type": "Formação",
     "date": "2025-05-25",
     "time": "14:00",
-    "location": "Auditório da Matriz"
+    "location": "Auditório da Matriz",
+    "visibility": true
   },
   {
     "id": "3",
@@ -22,7 +24,8 @@
     "type": "Encontro",
     "date": "2025-07-12",
     "time": "08:00",
-    "location": "Centro de Evangelização"
+    "location": "Centro de Evangelização",
+    "visibility": true
   },
   {
     "id": "4",
@@ -30,6 +33,7 @@
     "type": "Social",
     "date": "2025-06-15",
     "time": "20:00",
-    "location": "Pátio da Igreja"
+    "location": "Pátio da Igreja",
+    "visibility": true
   }
 ]

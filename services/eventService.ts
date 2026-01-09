@@ -15,11 +15,15 @@ export const subscribeToEvents = (callback: (events: any[]) => void) => {
     const q = query(eventsCollection, orderBy("date", "asc"));
 
     const unsubscribe = onSnapshot(q, (snapshot) => {
-      const events = snapshot.docs.map(doc => ({
-        id: doc.id,
-        ...doc.data()
-      }));
-      console.log(`[Firebase] Eventos recebidos: ${events.length}`);
+      const events = snapshot.docs
+        .map(doc => ({
+          id: doc.id,
+          ...doc.data()
+        }))
+        // Filtra apenas eventos visíveis (visibility === true)
+        .filter((event: any) => event.visibility === true);
+        
+      console.log(`[Firebase] Eventos recebidos (visíveis): ${events.length}`);
       callback(events);
     }, (error) => {
       console.error("[Firebase] Erro ao escutar eventos:", error);

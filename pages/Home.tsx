@@ -133,7 +133,7 @@ const Home: React.FC<HomeProps> = ({ user }) => {
         link.href = dataUrl;
         link.download = `minha-graca-ejc.png`;
         link.click();
-        alert("Sua imagem foi baixada com a marca @catolicodigital! Agora você pode postar no seu Status do WhatsApp.");
+        alert("Sua imagem foi baixada com a marca @catolicodigitalPE! Agora você pode postar no seu Status do WhatsApp.");
       }
     } catch (err: any) {
       console.error("Erro ao compartilhar:", err);
@@ -259,7 +259,7 @@ const Home: React.FC<HomeProps> = ({ user }) => {
 
                 <div className="px-5 pb-4 flex justify-center">
                   <span className="text-[9px] font-black text-slate-400 uppercase tracking-[0.2em] opacity-30">
-                    @catolicodigital
+                    @catolicodigitalPE
                   </span>
                 </div>
 

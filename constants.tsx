@@ -94,7 +94,8 @@ export const MOCK_EVENTS: EJCEvent[] = [
     date: '2025-06-01', 
     time: '19:00', 
     type: 'Social', 
-    location: 'Igreja Matriz' 
+    location: 'Igreja Matriz',
+    visibility: true
   },
   { 
     id: 'e2', 
@@ -102,7 +103,8 @@ export const MOCK_EVENTS: EJCEvent[] = [
     date: '2025-06-05', 
     time: '20:00', 
     type: 'Reunião', 
-    location: 'Salão Paroquial' 
+    location: 'Salão Paroquial',
+    visibility: true
   },
   { 
     id: 'e3', 
@@ -110,7 +112,8 @@ export const MOCK_EVENTS: EJCEvent[] = [
     date: '2025-06-12', 
     time: '19:30', 
     type: 'Formação', 
-    location: 'Auditório' 
+    location: 'Auditório',
+    visibility: true
   }
 ];
 
@@ -194,3 +197,4 @@ export const getRelicIcon = (iconName: string, size = 24) => {
   };
   return icons[iconName] || <Star size={size} />;
 };
+    

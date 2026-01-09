@@ -50,6 +50,7 @@ export interface EJCEvent {
   time: string;
   type: 'Reunião' | 'Formação' | 'Encontro' | 'Social';
   location: string;
+  visibility: boolean;
 }
 
 export interface ChatMessage {
